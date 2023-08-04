@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T13:12:43.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_EAvxjMeXYyxLI_PXZdo" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T15:33:44.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="OmWdSFG6hNKqs_CXMUi7" version="21.6.2" type="github">
   <diagram id="pHUcZfW-cZySXH26Udvi" name="Page-2">
-    <mxGraphModel dx="1660" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2016" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="98yDIqRsI6KGfIPP-x18-167" value="Pontos Livelo" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="312" y="721.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="98yDIqRsI6KGfIPP-x18-168" value="Milhas ganhas com &lt;br&gt;a assinatura" style="rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="202" y="621.5" width="120" height="40" as="geometry" />
+        <mxCell id="98yDIqRsI6KGfIPP-x18-168" value="Milhas acumuladas com &lt;br&gt;a assinatura" style="rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="202" y="621.5" width="158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="98yDIqRsI6KGfIPP-x18-169" value="Pontos comprados&lt;br&gt;nas promocoes" style="rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="82" y="721.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="50" y="721.5" width="152" height="40" as="geometry" />
         </mxCell>
         <mxCell id="98yDIqRsI6KGfIPP-x18-179" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#3700CC;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#6a00ff;" parent="1" source="98yDIqRsI6KGfIPP-x18-167" target="98yDIqRsI6KGfIPP-x18-168" edge="1">
           <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
@@ -69,6 +69,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-5" value="3.5:1 - A partir de 5/Sep" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lprAs_AV9ht-rZbfYgg8-3">
+          <mxGeometry x="-0.2298" y="1" relative="1" as="geometry">
+            <mxPoint x="30" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lprAs_AV9ht-rZbfYgg8-5" value="TAP" style="rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=3;shadow=0;html=1;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="920" y="390" width="120" height="40" as="geometry" />
         </mxCell>
@@ -84,6 +89,9 @@
         </mxCell>
         <mxCell id="lprAs_AV9ht-rZbfYgg8-9" value="Air France" style="rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=3;shadow=0;html=1;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1050" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="lprAs_AV9ht-rZbfYgg8-10" target="LaEs5MpT-my3YbIbVM4t-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lprAs_AV9ht-rZbfYgg8-10" value="IBERIA" style="rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;strokeWidth=3;shadow=0;html=1;fontColor=#000000;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1060" y="661.5" width="120" height="40" as="geometry" />
@@ -132,7 +140,7 @@
             <mxPoint x="1020" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cj-1utIJ18nujl3oS1AE-16" target="lprAs_AV9ht-rZbfYgg8-33">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Cj-1utIJ18nujl3oS1AE-16" target="lprAs_AV9ht-rZbfYgg8-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="1060" as="targetPoint" />
             <Array as="points">
@@ -140,7 +148,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-22" value="€4 -&amp;nbsp;1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cj-1utIJ18nujl3oS1AE-17">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-22" value="€4 -&amp;nbsp;1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Cj-1utIJ18nujl3oS1AE-17" vertex="1" connectable="0">
           <mxGeometry x="0.0302" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -168,7 +176,7 @@
         <mxCell id="lprAs_AV9ht-rZbfYgg8-37" value="Emirates" style="rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;shadow=0;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1090" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="lprAs_AV9ht-rZbfYgg8-39" target="lprAs_AV9ht-rZbfYgg8-2">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" parent="1" source="lprAs_AV9ht-rZbfYgg8-39" target="lprAs_AV9ht-rZbfYgg8-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lprAs_AV9ht-rZbfYgg8-39" value="TopCashback" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -183,35 +191,35 @@
             <mxPoint x="1080" y="891" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=-0.024;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="lprAs_AV9ht-rZbfYgg8-5" target="lprAs_AV9ht-rZbfYgg8-37">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=-0.024;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="lprAs_AV9ht-rZbfYgg8-5" target="lprAs_AV9ht-rZbfYgg8-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="385" as="sourcePoint" />
             <mxPoint x="1040" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-2" value="Emitir voos Eemirates &lt;br&gt;com milhas TAP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cj-1utIJ18nujl3oS1AE-1">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-2" value="Emitir voos Eemirates &lt;br&gt;com milhas TAP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Cj-1utIJ18nujl3oS1AE-1" vertex="1" connectable="0">
           <mxGeometry x="0.0593" y="-14" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-3" value="QATAR" style="rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-3" value="QATAR" style="rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1420" y="790" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.002;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="lprAs_AV9ht-rZbfYgg8-40" target="Cj-1utIJ18nujl3oS1AE-3">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.002;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="lprAs_AV9ht-rZbfYgg8-40" target="Cj-1utIJ18nujl3oS1AE-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1190" y="810" as="sourcePoint" />
             <mxPoint x="1240" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-5" value="Emitir voos Qatar&lt;br&gt;com milhas LATAM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cj-1utIJ18nujl3oS1AE-4">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-5" value="Emitir voos Qatar&lt;br&gt;com milhas LATAM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Cj-1utIJ18nujl3oS1AE-4" vertex="1" connectable="0">
           <mxGeometry x="-0.0186" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-6" value="DELTA" style="rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-6" value="DELTA" style="rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1420" y="721.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lprAs_AV9ht-rZbfYgg8-40" target="Cj-1utIJ18nujl3oS1AE-6">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lprAs_AV9ht-rZbfYgg8-40" target="Cj-1utIJ18nujl3oS1AE-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1240" y="770" as="sourcePoint" />
             <mxPoint x="1290" y="720" as="targetPoint" />
@@ -221,27 +229,60 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-9" value="Emitir voos DELTA&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;com milhas LATAM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cj-1utIJ18nujl3oS1AE-7">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-9" value="Emitir voos DELTA&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;com milhas LATAM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Cj-1utIJ18nujl3oS1AE-7" vertex="1" connectable="0">
           <mxGeometry x="-0.0712" y="12" relative="1" as="geometry">
             <mxPoint x="51" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-16" value="&lt;a href=&quot;https://personalbanking.bankofireland.com/borrow/credit-cards/aer-credit-card/faqs/&quot;&gt;BOI Aer Lingus&lt;/a&gt; - monthly &lt;br&gt;account fee of €6.50 and &lt;br&gt;annual government &lt;br&gt;stamp duty of €30." style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="1">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-16" value="&lt;a href=&quot;https://personalbanking.bankofireland.com/borrow/credit-cards/aer-credit-card/faqs/&quot;&gt;BOI Aer Lingus&lt;/a&gt; - monthly &lt;br&gt;account fee of €6.50 and &lt;br&gt;annual government &lt;br&gt;stamp duty of €30." style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png" parent="1" vertex="1">
           <mxGeometry x="480" y="980" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.281;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="Cj-1utIJ18nujl3oS1AE-21" target="lprAs_AV9ht-rZbfYgg8-33">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.281;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="1" source="Cj-1utIJ18nujl3oS1AE-21" target="lprAs_AV9ht-rZbfYgg8-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-24" value="€1 -&amp;nbsp;1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cj-1utIJ18nujl3oS1AE-23">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-24" value="€1 -&amp;nbsp;1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Cj-1utIJ18nujl3oS1AE-23" vertex="1" connectable="0">
           <mxGeometry x="-0.0134" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-21" value="Aer Lingus flights paid with cash" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-21" value="Aer Lingus flights paid with cash" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="584.25" y="1160" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-25" value="ESFERA" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Cj-1utIJ18nujl3oS1AE-25" value="ESFERA" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="322" y="340" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-2" value="Pontos acumulados organicamente.&lt;br&gt;- Aluguel de carro&lt;br&gt;- Hospedagem&lt;br&gt;- Compras de eletronicos" style="rounded=0;fillColor=#6a00ff;strokeColor=#3700CC;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="830" width="208" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-4" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#3700CC;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#6a00ff;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.006;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="98yDIqRsI6KGfIPP-x18-167" target="LaEs5MpT-my3YbIbVM4t-2">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="323" y="782" as="sourcePoint" />
+            <mxPoint x="212" y="764" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaEs5MpT-my3YbIbVM4t-6" target="LaEs5MpT-my3YbIbVM4t-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-6" value="Atomos" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#f5f5f5;strokeColor=#666666;rounded=0;labelBackgroundColor=none;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="280" y="960" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="LaEs5MpT-my3YbIbVM4t-7" target="LaEs5MpT-my3YbIbVM4t-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-7" value="Comprar com cartao de credito c6" style="rounded=0;strokeWidth=3;shadow=0;html=1;labelBackgroundColor=none;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1040" width="208" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-8" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#000000;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;fillColor=#6a00ff;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="98yDIqRsI6KGfIPP-x18-167" target="LaEs5MpT-my3YbIbVM4t-6">
+          <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
+            <mxPoint x="340" y="834" as="sourcePoint" />
+            <mxPoint x="259" y="881" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-10" value="Pontos atomos podem ser &lt;br&gt;transferidos para Livelo, Latam, &lt;br&gt;Smiles e Tudo Azul" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f5f5f5;strokeColor=#666666;shadow=0;strokeWidth=3;rounded=0;labelBackgroundColor=none;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1190" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LaEs5MpT-my3YbIbVM4t-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Madrid &amp;gt; Sao Paulo&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.travel;fillColor=#FF9501;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="400" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
