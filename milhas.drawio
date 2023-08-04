@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T15:34:20.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yzQ4s_TaNo5TAhOL6D6_" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T15:51:45.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xfkX1-_kXW_5q-M9vucI" version="21.6.2" type="github">
   <diagram id="pHUcZfW-cZySXH26Udvi" name="Page-2">
-    <mxGraphModel dx="2016" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1176" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,15 +182,6 @@
         <mxCell id="lprAs_AV9ht-rZbfYgg8-39" value="TopCashback" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="760" y="1070" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="lprAs_AV9ht-rZbfYgg8-40" value="LATAM" style="rounded=0;fillColor=#a20025;strokeColor=#6F0000;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="790" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lprAs_AV9ht-rZbfYgg8-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#6F0000;fontColor=default;fillColor=#a20025;" parent="1" source="lprAs_AV9ht-rZbfYgg8-2" target="lprAs_AV9ht-rZbfYgg8-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="962" y="858" as="sourcePoint" />
-            <mxPoint x="1080" y="891" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Cj-1utIJ18nujl3oS1AE-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.432;exitY=-0.024;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="lprAs_AV9ht-rZbfYgg8-5" target="lprAs_AV9ht-rZbfYgg8-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="385" as="sourcePoint" />
@@ -200,38 +191,6 @@
         <mxCell id="Cj-1utIJ18nujl3oS1AE-2" value="Emitir voos Eemirates &lt;br&gt;com milhas TAP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Cj-1utIJ18nujl3oS1AE-1" vertex="1" connectable="0">
           <mxGeometry x="0.0593" y="-14" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-3" value="QATAR" style="rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="790" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.002;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" parent="1" source="lprAs_AV9ht-rZbfYgg8-40" target="Cj-1utIJ18nujl3oS1AE-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1190" y="810" as="sourcePoint" />
-            <mxPoint x="1240" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-5" value="Emitir voos Qatar&lt;br&gt;com milhas LATAM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Cj-1utIJ18nujl3oS1AE-4" vertex="1" connectable="0">
-          <mxGeometry x="-0.0186" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-6" value="DELTA" style="rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;shadow=0;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="721.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="lprAs_AV9ht-rZbfYgg8-40" target="Cj-1utIJ18nujl3oS1AE-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1240" y="770" as="sourcePoint" />
-            <mxPoint x="1290" y="720" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1290" y="770" />
-              <mxPoint x="1240" y="720" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cj-1utIJ18nujl3oS1AE-9" value="Emitir voos DELTA&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;com milhas LATAM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Cj-1utIJ18nujl3oS1AE-7" vertex="1" connectable="0">
-          <mxGeometry x="-0.0712" y="12" relative="1" as="geometry">
-            <mxPoint x="51" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cj-1utIJ18nujl3oS1AE-16" value="&lt;a href=&quot;https://personalbanking.bankofireland.com/borrow/credit-cards/aer-credit-card/faqs/&quot;&gt;BOI Aer Lingus&lt;/a&gt; - monthly &lt;br&gt;account fee of €6.50 and &lt;br&gt;annual government &lt;br&gt;stamp duty of €30." style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png" parent="1" vertex="1">
