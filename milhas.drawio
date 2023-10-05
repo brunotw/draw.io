@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T22:06:31.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="v5gtxWMUntjr_5STZoyP" version="22.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-05T22:13:00.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="dgxTsNyvzs-mc6q5D2d6" version="22.0.3" type="github" pages="2">
   <diagram name="Estrategia" id="FQc_gfgrpAoOK430Ktd5">
     <mxGraphModel dx="1568" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -137,6 +137,12 @@
         </mxCell>
         <mxCell id="E_YlI3AuLvNd8C3kO_3j-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fYvXDHMFxCud7RhjMWa8-1" source="fYvXDHMFxCud7RhjMWa8-23" target="E_YlI3AuLvNd8C3kO_3j-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_YlI3AuLvNd8C3kO_3j-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="fYvXDHMFxCud7RhjMWa8-1" source="E_YlI3AuLvNd8C3kO_3j-5" target="fYvXDHMFxCud7RhjMWa8-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_YlI3AuLvNd8C3kO_3j-5" value="&lt;b&gt;BTG Pactual&lt;/b&gt; para compra no brasil e acumulo &lt;br&gt;de pontos que podem ser transferidos para Esfera" style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="fYvXDHMFxCud7RhjMWa8-1">
+          <mxGeometry x="595" y="480" width="70" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
