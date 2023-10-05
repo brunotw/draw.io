@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T22:00:23.111Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_F7a_URNHczJ0rhAbK8I" version="22.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-05T22:02:16.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5D2ZOty9F4v8aOjQTQgp" version="22.0.3" type="github" pages="2">
   <diagram id="pHUcZfW-cZySXH26Udvi" name="Page-2">
     <mxGraphModel dx="1411" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -253,7 +253,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Estrategia" id="FQc_gfgrpAoOK430Ktd5">
-    <mxGraphModel dx="1129" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1344" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="fYvXDHMFxCud7RhjMWa8-0" />
         <mxCell id="fYvXDHMFxCud7RhjMWa8-1" parent="fYvXDHMFxCud7RhjMWa8-0" />
@@ -339,8 +339,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fYvXDHMFxCud7RhjMWa8-39" value="&lt;a href=&quot;https://personalbanking.bankofireland.com/borrow/credit-cards/aer-credit-card/faqs/&quot;&gt;BOI Aer Lingus&lt;/a&gt; - monthly &lt;br&gt;account fee of €6.50 and &lt;br&gt;annual government &lt;br&gt;stamp duty of €30. Total anually €108" style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="fYvXDHMFxCud7RhjMWa8-1">
-          <mxGeometry x="480" y="980" width="70" height="80" as="geometry" />
+        <mxCell id="fYvXDHMFxCud7RhjMWa8-39" value="&lt;a href=&quot;https://personalbanking.bankofireland.com/borrow/credit-cards/aer-credit-card/faqs/&quot;&gt;BOI Aer Lingus&lt;/a&gt; - monthly &lt;br&gt;account fee of €6.50 and &lt;br&gt;annual government &lt;br&gt;stamp duty of €30. Total anually €108&lt;br&gt;&lt;br&gt;2 Free flights + taxes yearly after spending 5k" style="image;html=1;image=img/lib/clip_art/finance/Credit_Card_128x128.png" vertex="1" parent="fYvXDHMFxCud7RhjMWa8-1">
+          <mxGeometry x="320" y="980" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fYvXDHMFxCud7RhjMWa8-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.281;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="fYvXDHMFxCud7RhjMWa8-1" source="fYvXDHMFxCud7RhjMWa8-42" target="fYvXDHMFxCud7RhjMWa8-31">
           <mxGeometry relative="1" as="geometry" />
